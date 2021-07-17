@@ -1,5 +1,9 @@
 source map 方便我们在日常开发中的调试，映射转换后的代码和源代码的关系。
 
+#### 博客地址
+
+https://juejin.cn/post/6985792242015272990/
+
 #### 项目准备
 
 `npm init -y` 准备一个 package.json
